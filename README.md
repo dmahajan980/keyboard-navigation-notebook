@@ -2,7 +2,7 @@
 
 A diary/repository for jotting down all relevant observations related to navigating a browser using keyboard keys and shortcuts.
 
-## Keyboard Shortcuts and their Functionality
+## Keyboard shortcuts and their functionality
 
 Some of the majorly used Keyboard shortcuts including the ones that I commonly use are as follows:
 
@@ -20,6 +20,7 @@ Some of the majorly used Keyboard shortcuts including the ones that I commonly u
 | `Shift + Tab` | Move from the current focusable item to the previous focusable item |
 | `Ctrl + Tab` | Move from currently selected browser tab to the next browser tab in the series |
 | `Ctrl + Shift + Tab` | Move from currently selected browser tab to the previous browser tab in the series |
+| `Alt + ~` | Switch between multiple opened browser windows |
 | `Enter` while focused on a hyperlink or an object | Opens the link or the data that the hyperlink redirects to in the current tab or execute the action the object performs |
 | `Ctrl + Enter` while focused on a hyperlink | Opens the link or the data that the hyperlink redirects to in a new tab |
 | `F11` | Toggles full-screen mode |
@@ -36,3 +37,8 @@ Some of the majorly used Keyboard shortcuts including the ones that I commonly u
 | `Ctrl + E` | Focuses on the browser's address bar and prompts for a Google Search |
 
 _Note: All these shortcut keys were used by me on Google Chrome only. A few of them might not work on other browsers._
+
+## My experience with using keyboard for navigation
+
+I've been using keyboard for navigation and other purposes for a very long time. I didn't like move my hands back and forth between keyboard and mousepad and as a web developer writing enormous lines of CSS and JavaScript, I got more used to keyboard than mouse. Although mouse is an input device intended to make navigation more convenient and there are some things that only mouse can perform, but what I personally feel is most of the tasks that both the keyboard and mouse can perform could be performed using keyboard in a much better and efficient manner. The user simply has to move his fingers across the keyboard and press the required key or key combinations to perform the desired action. Keyboards can do pretty much anything, from moving across the page and slecting or opening objects/buttons/links to opening and closing tabs or browser windows and moving across them. Provided all this, I am pretty sure that if a person gets used to keyboard's way of navigation, he or she will definitely like it and would prefer to use it over mousepad. Apart from all of the above, I use keyboard for other things, even for doing things outside the scope of the browser such as switching between apps using `Alt + Tab` to switch between apps, `Ctrl + ALt + T` to open the terminal, `Ctrl + Shift + N` to create a new folder and many other tasks. 
+However, I feel that it might take some time for anyone to get used to the keyboard's way of navigation.
