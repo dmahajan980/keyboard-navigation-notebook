@@ -45,9 +45,12 @@ One thing that I noticed in _[YouTube](https://youtube.com)_ was the elements, w
 
 After going through some other websites, I noticed some strange behaviour. A carousel with two buttons (previous and next), the buttons change color on being focused and the focus state still remained on the button after `Enter` key was pressed. This was normal and expected and is helpful for a keyboard user, but when I clicked upon it using mouse and moved the cursor away, the color doesn't turn back to what it was before the element was focused. Rather it stays as if it is currently being focused, which it shouldn't be after being clicked. This is something I noticed that would be confusing for the mouse user but rather helpful for the keyboard user. 
 
-Another thing to notice is that in some websites, such as _[Facebook](https://facebook.com/)_ have some hidden menu which automatically shows up on top of the page when user starts navigation through keyboard and allows the users to jump directly to any section of the page. This is definitely something that improves the user experience, especially for a keyboard user as the user won't have to tab through all the elements on the page before the target element to reach there. Something similar is being offered by _[GitHub](https://github.com)_ as well, it's the **Skip to Content** option that shows up on the top left corner of the webpage which allows the user to skip directly to the main content. 
+Another thing to notice is that in some websites, such as _[Facebook](https://facebook.com/)_ have some hidden menu which automatically shows up on top of the page when user starts navigation through keyboard and allows the users to jump directly to any section of the page. This is definitely something that improves the user experience, especially for a keyboard user as the user won't have to tab through all the elements on the page before the target element to reach there.
 
 ![Imgur](https://i.imgur.com/nhEmsjh.png)
+
+Something similar is being offered by _[GitHub](https://github.com)_ as well, it's the **Skip to Content** option that shows up on the top left corner of the webpage which allows the user to skip directly to the main content. 
+
 ![Imgur](https://i.imgur.com/PjZxjwC.png)
 
 Other than all of the above, I also tried other commands (as mentioned in the table) to do other things such as opening, closing and re-opening tabs and windows, switching across them, jumping to new websites on the same tab and many more. The only thing that I missed was the ability to move the mouse cursor via keyboard. One idea that I had in mind was to use arrow keys to move the cursor but it would then interfere with the behaviour of keyboard navigation so it's better to keep both of them separated.
