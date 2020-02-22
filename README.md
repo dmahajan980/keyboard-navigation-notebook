@@ -37,7 +37,7 @@ Below is the list of keys and keyboard shortcuts that I tried out for navigation
 
 ## My experience with using keyboard for navigation
 
-Before I begin, I would like to clarify that I have been using keyboard shortcuts **from a very long time** for various utilities in the browser including the ones mentioned here for navigation.
+Before I begin, I would like to mention that I have been using keyboard shortcuts for a very long time for various utilities including the ones mentioned here for navigation.
 
 I started off by searching anything random on _[Google](https://google.com)_ from _Google Chrome_. I started tabbing (`Tab` / `Shift + Tab`) to navigate across the various search results. I noticed that the focused element had a blue outline which was same on other websites I opened. I repeated this for _Mozilla Firefox_ and it had also outlined (not blue though) the focused element. So, it seems that all browsers have some predefined outline style for the focused element. 
 
@@ -49,5 +49,7 @@ Another thing to notice is that in some websites, such as _[Facebook](https://fa
 
 ![Imgur](https://i.imgur.com/nhEmsjh.png)
 ![Imgur](https://i.imgur.com/PjZxjwC.png)
+
+Other than all of the above, I also tried other commands (as mentioned in the table) to do other things such as opening, closing and re-opening tabs and windows, switching across them, jumping to new websites on the same tab and many more. The only thing that I missed was the ability to move the mouse cursor via keyboard. One idea that I had in mind was to use arrow keys to move the cursor but it would then interfere with the behaviour of keyboard navigation so it's better to keep both of them separated.
 
 Overall, I enjoyed doing the activity/task and I feel that the lessons learnt from this experience shall be helpful during the implementation of some features later in the project.
