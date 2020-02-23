@@ -39,9 +39,19 @@ Something similar is being offered by _[GitHub](https://github.com)_ as well, wh
   <img src="https://i.imgur.com/PjZxjwC.png">
 </p>
 
-Other than all of the above, I also tried other commands (as mentioned below) to do other things such as opening, closing, and re-opening tabs and windows, switching between them, jumping to new websites on the same tab and many more. The only thing that I felt was missing was the ability to move the mouse cursor via the keyboard. One idea that I had in mind was to use arrow keys to move the cursor. Surprisingly, I came across that **Microsoft** has provided this feature in _Windows 7_ (Kindly refer to this [article](https://support.microsoft.com/en-in/help/14204/windows-7-use-mouse-keys-to-move-mouse-pointer) for more info). If modern browsers could also offer something similar to this, then it will add an extra dimension to the keyboard navigation and would make the user experience better than ever.
+Other than all of the above, I also tried other commands (as mentioned in the table below) to do other things such as opening, closing, and re-opening tabs and windows, switching between them, jumping to new websites on the same tab and many more.
 
 Overall, I enjoyed doing the activity, and I feel that the lessons learned from this experience shall be helpful during the implementation of some features later in the project.
+
+## Suggestions
+
+- Some key shortcuts for online media players can be added such as `Space` for play/pause, `J` for skip 5 or 10 seconds previous, `L` for skip 5 or 10 seconds ahead, `K` for jumping to the beginning of the media or replay, `A` for moving to the previous media in the playlist, `D` for moving to the next video in the playlist, `S` for disable/enable autoplay, `+` for increasing media player volume, `-` for decreasing volume, `X` for mute/unmute volume and many more.
+
+- For all the search engine websites, a key shortcut can be added, such as `Ctrl + Space` that allows the user to focus directly on the page's search bar after which they simply type in the search query, instead of tabbing through other elements to reach and focus on the search bar. This can be useful when the user wants to modify the recent search query a bit.
+
+- There are some websites which use some carousel on their pages. When the user tabs through the page and the focus moves to the carousel, the user has to tab through each of its child elements or the cards to move past the carousel. An escape sequence such as `Ctrl + Esc` to get over the currently focused element's parent div or element (carousel div, in this case) and move the focus to the next sibling of the parent div/element. An extra shortcut can be added as well, such as `Ctrl + Shift + Esc` to get over the currently focused element's parent div or element and move the focus to the previous sibling of the parent div/element.
+
+- I had this in the back of my mind for a long time; it was to provide the flexibility to user to move the mouse cursor and trigger mouse-button click events via keys on the keyboard. Surprisingly, I came across that **Microsoft** has provided this feature in _Windows 7_ (Kindly refer to this [article](https://support.microsoft.com/en-in/help/14204/windows-7-use-mouse-keys-to-move-mouse-pointer) for more info). If modern browsers could also offer something similar to this, then it will add an extra dimension to the keyboard navigation and would make the user experience better than ever.
 
 ## Keyboard shortcuts and their functionality
 
