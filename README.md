@@ -35,7 +35,9 @@ Another thing to notice is that some websites, such as _[Facebook](https://faceb
 
 Something similar is being offered by _[GitHub](https://github.com)_ as well, which they call as the **Skip to Content** option and it shows up on the top left corner of the webpage which allows the user to skip directly to the main content. 
 
-![Imgur](https://i.imgur.com/PjZxjwC.png)
+<p align="center">
+  <img src="https://i.imgur.com/PjZxjwC.png">
+</p>
 
 Other than all of the above, I also tried other commands (as mentioned below) to do other things such as opening, closing, and re-opening tabs and windows, switching between them, jumping to new websites on the same tab and many more. The only thing that I felt was missing was the ability to move the mouse cursor via the keyboard. One idea that I had in mind was to use arrow keys to move the cursor. Surprisingly, I came across that **Microsoft** has provided this feature in _Windows 7_ (Kindly refer to this [article](https://support.microsoft.com/en-in/help/14204/windows-7-use-mouse-keys-to-move-mouse-pointer) for more info). If modern browsers could also offer something similar to this, then it will add an extra dimension to the keyboard navigation and would make the user experience better than ever.
 
