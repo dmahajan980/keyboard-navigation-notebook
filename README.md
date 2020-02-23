@@ -45,7 +45,7 @@ Overall, I enjoyed doing the activity, and I feel that the lessons learned from 
 
 ## Keyboard shortcuts and their functionality
 
-Below is the list of keys and keyboard shortcuts that I tried out for navigation using keyboard on _Google Chrome_. Most of these key combinations are being used by me all the time for the corresponding functionality or purpose.
+Below is the list of keys and keyboard shortcuts that I tried out for navigation using keyboard on ***Google Chrome***. Most of these key combinations are being used by me all the time for the corresponding functionality or purpose.
 
 | Keys | Functionality |
 | :---: | :---: |
