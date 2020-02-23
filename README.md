@@ -8,7 +8,24 @@ Before I begin, I would like to mention that I have been using keyboard shortcut
 
 I started by searching for anything random on _[Google](https://google.com)_ from _Google Chrome_. I started tabbing (`Tab` / `Shift + Tab`) to navigate across the different search results. I noticed that the focussed element had a blue outline, which was the same on other websites I opened. I repeated this for _Mozilla Firefox_, and it had also outlined (not blue though) the focussed element. So, it seems that all browsers have some predefined outline style for the focussed element. 
 
-One thing that I noticed in _[YouTube](https://youtube.com)_ was the elements/buttons, when the mouse pointer is hovering them, it shows some label which tells the user what the element or the button is. But it was not displayed when the element is focussed (from the keyboard) probably because the label was set to show only when the hover state of the corresponding button/element is active. But on _[Facebook](https://facebook.com/)_, the focussed elements did show the labels (at least, for the buttons on the navigation bar). So it seems that some sites do not have any elements that show the corresponding labels on being focussed. The issue could be resolved if we pass all the properties of the hover state to the focus state or by activating the hover event handler when the element is being focussed by the use of JavaScript. 
+<p align="center">
+  <img src="https://i.imgur.com/vSTy7XT.png">
+  <p align="center"><i>Focussed element with the blue outline on Google Chrome</i></p>
+</p>
+
+One thing that I noticed in _[YouTube](https://youtube.com)_ was the elements/buttons, when the mouse pointer is hovering them, it shows some label which tells the user what the element or the button is. But it was not displayed when the element is focussed (from the keyboard) probably because the label was set to show only when the hover state of the corresponding button/element is active.
+
+<p align="center">
+  <img src="https://i.imgur.com/nDX61vs.png">
+  <p align="center"><i>YouTube icons doesn't show any labels on being focussed</i></p>
+</p>
+
+But on _[Facebook](https://facebook.com/)_, the focussed elements did show the labels (at least, for the buttons on the navigation bar). So it seems that some sites do not have any elements that show the corresponding labels on being focussed. The issue could be resolved if we pass all the properties of the hover state to the focus state or by activating the hover event handler when the element is being focussed by the use of JavaScript. 
+
+<p align="center">
+  <img src="https://i.imgur.com/JhPeLPj.png">
+  <p align="center"><i>Facebook icons show the corresponding labels on being focussed</i></p>
+</p>
 
 After going through some other websites, I noticed some behavior that might confuse the mouse user. A carousel with two buttons (previous and next), the buttons change color on being focussed and the button stays focussed even after `Enter` key was pressed. It was normal and is helpful for a keyboard user to know the element at which it is currently focussed. But when I clicked upon the button using mouse and moved the mouse cursor away, the color does not turn back to what it was before the element was focussed. Instead, it stays as if it is currently being focussed. To the mouse user, it can be quite confusing that the clicked button is still focussed after moving the cursor away. But, to the keyboard user, this is a plus.
 
