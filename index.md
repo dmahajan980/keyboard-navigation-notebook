@@ -1,4 +1,4 @@
-# My experience with using keyboard for navigation
+# My Experience with using Keyboard for Navigation
 
 Before I begin, I would like to mention that I have been using keyboard shortcuts for a very long time for various utilities, including the ones mentioned here for navigation.
 
