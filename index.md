@@ -1,8 +1,4 @@
-# Keyboard Navigation Notebook
-
-A diary/repository for jotting down all relevant observations related to navigating a browser using keyboard keys and shortcuts.
-
-## My experience with using keyboard for navigation
+# My experience with using keyboard for navigation
 
 Before I begin, I would like to mention that I have been using keyboard shortcuts for a very long time for various utilities, including the ones mentioned here for navigation.
 
